@@ -1,0 +1,7 @@
+Lord of the Rings,Movie,Adventure,true,9.5
+Grand Budapest Hotel,Movie,Comedy,true,9.0
+Night at the Museum,Movie,Comedy,true,6.5
+Mad Max Fury Road,Movie,Action,true,9.0
+Ever After,Movie,Romance,true,7.0
+Lord of the Rings,TV Show,Adventure,true,8.0
+Matilda,Movie,Comedy,true,8.0
